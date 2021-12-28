@@ -3,7 +3,7 @@ Pipeline do Azure DevOps para automação de testes (com Postman + Newman), buil
 
 Projeto que serviu de base para a implementação deste Pipeline:
 
-https://github.com/renatogroffe/DotNet6-AzureFunctions-Isolated-HttpTrigger-Postman_JurosCompostos
+https://github.com/azurenapratica/DotNet6-AzureFunctions-Isolated-HttpTrigger-Postman_JurosCompostos
 
 Task/Extensão para criação de Work Items:
 
